@@ -16,6 +16,6 @@ class Unicorn {
   says(newPhrase) {
     return `**;* ${newPhrase} *;**`;
   }
-};
+}
 
 module.exports = Unicorn;
